@@ -9,7 +9,7 @@
   },
   "keywords": [],
   "engines": {
-    "node": "4.2.6"
+    "node": "6.9.4"
   },
   "repository": {
     "type": "git",
