@@ -11,7 +11,7 @@
     },
     "APIAI_LANG": {
       "description": "Agent language",
-      "value": "fr",
+      "value": "en",
       "required": false
     },
     "APP_ID": {
