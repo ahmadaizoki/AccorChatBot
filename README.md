@@ -1,2 +1,0 @@
-# AccorChatBot
-skype chat bot 
